@@ -1,5 +1,3 @@
-# au-202
-au-202 audio mixer
+## au-202
+au-202 audio mixer schenatic
 
-## description
-au-202 audio mixer schematic
